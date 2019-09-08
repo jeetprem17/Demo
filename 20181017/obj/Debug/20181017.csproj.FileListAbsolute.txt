@@ -1,0 +1,6 @@
+c:\users\premj\Documents\Visual Studio 2012\Projects\20181017\20181017\bin\Debug\20181017.exe.config
+c:\users\premj\Documents\Visual Studio 2012\Projects\20181017\20181017\obj\Debug\20181017.csprojResolveAssemblyReference.cache
+c:\users\premj\Documents\Visual Studio 2012\Projects\20181017\20181017\bin\Debug\20181017.exe
+c:\users\premj\Documents\Visual Studio 2012\Projects\20181017\20181017\bin\Debug\20181017.pdb
+c:\users\premj\Documents\Visual Studio 2012\Projects\20181017\20181017\obj\Debug\20181017.exe
+c:\users\premj\Documents\Visual Studio 2012\Projects\20181017\20181017\obj\Debug\20181017.pdb
